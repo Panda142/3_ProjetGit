@@ -1,1 +1,3 @@
 deuxieme fichier texte
+ligne2 et 
+ligne 3
